@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FloatScroll</string>
+    <string name="service_description">FloatScroll displays floating overlay buttons that let you scroll any app with a single tap. No data is collected or transmitted.</string>
+    <string name="app_description">Floating overlay buttons that let you scroll any app with a single tap. Enable the accessibility service to get started.</string>
+    <string name="open_accessibility_settings">Open Accessibility Settings</string>
+    <string name="scroll_distance_label">Scroll Distance</string>
+    <string name="opacity_label">Button Opacity</string>
+    <string name="button_size_label">Button Size</string>
+    <string name="size_small">Small</string>
+    <string name="size_medium">Medium</string>
+    <string name="size_large">Large</string>
+    <string name="hint_text">Tip: After enabling the service, you can drag the floating buttons to reposition them anywhere on screen.</string>
+</resources>
